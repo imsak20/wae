@@ -9,7 +9,7 @@
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
  "Reset If Target Win": "OFF",
- "Interval": "1",
+ "Interval": "0",
  "Config": [{
 
      "Name Bet Set": "1⃣ Mining Chance 80 ‰",
@@ -81,7 +81,7 @@
      "If Lose": "2",
      "Reset If Win": "1",
      "Reset If Profit": "0.00000001",
-     "Interval": "212"
+     "Interval": "0"
      }
   ],
   "Auto Wd": {
